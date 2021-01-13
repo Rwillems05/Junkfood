@@ -17,15 +17,15 @@
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #A63030; /* Darker red */
     color: #ffffff;
   }
   .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
-    color: #AA3939;
+    background-color: #C12C2C; /* Red */
+    color: #ffffff;
   }
   .bg-3 { 
-    background-color: #ffffff; /* White */
+    background-color: #CF6969; /* Light Red */
     color: #555555;
   }
   .bg-4 { 
@@ -61,13 +61,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Me</a>
+      <a class="navbar-brand" href="#">JUNKFOODPRIJZEN</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">WHO</a></li>
+        <li><a href="#">Wat doen wij?</a></li>
         <li><a href="#">WHAT</a></li>
-        <li><a href="#">WHERE</a></li>
+        <li><a href="#">Populair</a></li>
       </ul>
     </div>
   </div>
@@ -77,7 +77,7 @@
 <div class="container-fluid bg-1 text-center">
   <h3 class="margin">Junkfoodprijzen</h3>
   <img src="Junkfood.png" class="img-responsive img-circle margin" style="display:inline" alt="Junkfoodprijzen" width="350" height="350">
-  <h3>Op deze website zie je de prijzen en het assortiment van verschillende Foodketens die zich in Nederland bevinden. Op deze website vind je de prijzen van; Mcdonalds, KFC, Burger king en Dominoes</h3>
+  <h3>Op deze website zie je de prijzen en het assortiment van verschillende Foodketens die zich in Nederland bevinden. Op deze website vind je de prijzen van; Mcdonalds, KFC en BurgerKing </h3>
 </div>
 
 <!-- Second Container -->
