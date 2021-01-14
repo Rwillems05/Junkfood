@@ -83,8 +83,79 @@
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
   <h3 class="margin">McDonalds</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-  <a href="#" class="btn btn-default btn-lg">
+  
+<div class="col-sm-4" STYLE="text-align: left;">
+<p>
+Voordeelmenu's
+<ul>
+<li>Chicken McNuggets 9
+€ 6,25
+<li>Filet-o-Fish
+€ 6,25
+<li>McChicken
+€ 6,25
+<li>Quarter Pounder
+€ 6,25
+<li>Big Mac
+€ 6,75
+<li>Chicken Sensation
+€ 7,00
+<li>Big Tasty met bacon
+€ 7,25
+<li>McWrap honing-Mosterd
+€ 7,00
+<li>Grilled Chicken Salad - Sweet & Spicy Voordeelmenu
+€ 5,95
+<li>Groot menu (plus prijs)
+€ 0,75
+<li>Bacon 'n Cheese Salad Voordeelmenu
+€ 5,95
+</ul>
+ <p/>
+</div>
+
+   <div class="col-sm-4" STYLE="text-align: left;">
+ <p>
+Burgers en McNuggets
+<ul>
+<li>Big mac
+€ 3,45
+<li>Quarter Pounder
+€ 3,45
+<li>McChicken
+€ 3,25
+<li>Filet-O-Fish
+€ 2,00
+<li>Chicken Sensation
+€ 3,75
+<li>Big Tasty met bacon
+€ 6,95
+<li>Hamburger
+€ 1,75
+<li>Cheeseburger
+€ 1,50
+<li>McKroket
+€ 2,45
+<li>Chicken McNuggets 6 st.
+€ 2,00
+<li>Chicken McNuggets 9 st. met 2 sausjes
+€ 3,75
+<li>Chicken McNuggets 20 st. met 3 sausjes
+€ 6,95
+<li>Crispy shrimps met chili dip
+€ 2,50
+<li>Chili chicken
+€ 0,00
+</ul>
+ <p/>
+    </div>
+
+    <div class="col-sm-4"> 
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      
+    </div>
+  </p>
+    <a href="#" class="btn btn-default btn-lg">
     <span class=" "></span> Back up
   </a>
 </div>
