@@ -85,9 +85,10 @@
   <h3 class="margin">McDonalds</h3>
   
 <div class="col-sm-4" STYLE="text-align: left;">
+
 <p>
-Voordeelmenu's
 <ul>
+Voordeelmenu's
 <li>Chicken McNuggets 9
 € 6,25
 <li>Filet-o-Fish
@@ -111,13 +112,48 @@ Voordeelmenu's
 <li>Bacon 'n Cheese Salad Voordeelmenu
 € 5,95
 </ul>
- <p/>
+ </p>
+ 
+ <p style=”line-height: 20px;”>
+ 
+<p>
+<ul>
+McWraps 
+<li>Grote McWrap Honing-Mosterd € 3,95 
+<li>Kleine McWrap € 2,25
+</ul>
+</p>
+<p style=”line-height: 20px;”>
+<p>
+<ul>
+Happy Meal 
+<li>Happy Meal Hamburger € 4,20 
+<li>Los Happy Meal doosje met verassing € 1,75 
+<li>Happy Meal McFish € 4,20 
+<li>Happy Meal Cheeseburger € 4,20 
+<li>Happy Meal Chicken McNuggets 4 € 4,20
+</ul>
+</p>
+<p style=”line-height: 20px;”>
+<p>
+<ul>
+Franse frietjes 
+<li>Sweet Potatoes Medium € 2,40 
+<li>Friet klein € 2,10 
+<li>Friet middel € 2,25 
+<li>Friet groot € 2,70 
+<li>Frietsaus of Ketchup € 0,60 
+<li>Chicken McNuggets saus € 0,60 
+<li>Sweet Potatoes Groot € 2,90
+</ul>
+ </p> 
 </div>
+
 
    <div class="col-sm-4" STYLE="text-align: left;">
  <p>
-Burgers en McNuggets
 <ul>
+Burgers en McNuggets
 <li>Big mac
 € 3,45
 <li>Quarter Pounder
@@ -147,13 +183,90 @@ Burgers en McNuggets
 <li>Chili chicken
 € 0,00
 </ul>
- <p/>
+ </p>
+ 
+ <p>
+ <ul>
+Dranken 
+<li>Innocent Smoothie€ 1,95 
+<li>Tropicana Appelsap€ 1,95 
+<li>Tropicana Jus d’Orange€ 1,95 
+<li>Biologische Halfvolle Melk€ 1,95 
+<li>Fristi€ 1,95 
+<li>Chocomel€ 1,95 
+<li>Spa 33cl€ 1,75 
+<li>Spa 50cl€ 2,10 
+<li>Coca-Cola€ 2,10 
+<li>Coca-Cola Zero Sugar€ 2,10 
+<li>Coca-Cola Light€ 2,10 
+<li>Sprite€ 2,00 
+<li>Lipton Ice Tea€ 2,25 
+<li>Fanta€ 2,50 
+ </ul>
+ <P>
     </div>
 
-    <div class="col-sm-4"> 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <div class="col-sm-4" STYLE="text-align: left;"> 
+ <p>
+ <ul>
+Ijs & milk shakes 
+<li>McFlurry Strawberry Cheesecake met Aardbeiensaus€ 2,95 
+<li>Sundae Karamel € 1,80 
+<li>Ijshoorn € 1,00 
+<li>Milk Shake Banaan € 2,40 
+<li>Milk Shake Vanille € 2,40 
+<li>Milk Shake Aardbei € 2,40 
+<li>Iced Fruit Smoothie Mango & Ananas € 2,85 
+<li>Iced Fruit Smoothie Aardbei & Banaan € 2,85 
+<li>Iced Frappé Witte Chocolade Framboos € 2,95 
+<li>Iced Frappé Caramel € 2,95 
+<li>Lemonade € 2,85 
+<li>Milk Shake Chocolade € 2,40 
+<li>McFlurry Karamel Zeezout met Karamelsaus € 2,95 
+<li>McFlurry M&M's Pinda € 2,95 
+<li>McFlurry Oreo met Chocoladesaus € 2,95 
+<li>Sundae Chocolade € 2,10 
+<li>Sundae Aardbei met krokante muesli € 3,50 
+<li>Yoghurt met krokante muesli € 3,25 
+</ul>
+    </p>    
+    
+    
+    <p>
+    <ul>
+Koffie 
+<li>Thee € 1,95 
+<li>Thee groot € 2,25 
+<li>Cappuchino € 2,00 
+<li>Hot Choco € 2,25 
+<li>Hot Choco groot € 2,65 
+<li>Espresso € 1,25 
+<li>Dubbele espresso € 1,65 
+    </ul>
+    </p>
+    
+        <p>
+    <ul>
+Salades 
+<li><li>Grilled Chicken Salad - Sweet & Spicy € 4,95 
+<li>Bacon 'n Cheese Salad € 4,95 
+<li>Side Salad € 4,95     
+   </ul>
+    </p>
       
+    <p>
+    <ul>
+Ontbijt 
+<li>McMuffin € 1,95 
+<li>Croissant (jam & boter) € 1,95 
+<li>Pancakes met stroop € 1,95 
+<li>Ontbijtproduct + drankje € 2,95     
+    </ul>
+    </p>
+    
     </div>
+    
+    
   </p>
     <a href="#" class="btn btn-default btn-lg">
     <span class=" "></span> Back up
@@ -205,4 +318,3 @@ Burgers en McNuggets
 
 </body>
 </html>
-
