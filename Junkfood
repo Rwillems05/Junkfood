@@ -89,28 +89,17 @@
 <p>
 <ul>
 Voordeelmenu's
-<li>Chicken McNuggets 9
-€ 6,25
-<li>Filet-o-Fish
-€ 6,25
-<li>McChicken
-€ 6,25
-<li>Quarter Pounder
-€ 6,25
-<li>Big Mac
-€ 6,75
-<li>Chicken Sensation
-€ 7,00
-<li>Big Tasty met bacon
-€ 7,25
-<li>McWrap honing-Mosterd
-€ 7,00
-<li>Grilled Chicken Salad - Sweet & Spicy Voordeelmenu
-€ 5,95
-<li>Groot menu (plus prijs)
-€ 0,75
-<li>Bacon 'n Cheese Salad Voordeelmenu
-€ 5,95
+<li>Chicken McNuggets 9 € 6,25
+<li>Filet-o-Fish € 6,25
+<li>McChicken € 6,25
+<li>Quarter Pounder € 6,25
+<li>Big Mac € 6,75
+<li>Chicken Sensation € 7,00
+<li>Big Tasty met bacon € 7,25
+<li>McWrap honing-Mosterd € 7,00
+<li>Grilled Chicken Salad - Sweet & Spicy Voordeelmenu € 5,95
+<li>Groot menu (plus prijs) € 0,75
+<li>Bacon 'n Cheese Salad Voordeelmenu € 5,95
 </ul>
  </p>
  
@@ -163,71 +152,57 @@ Ontbijt
  <p>
 <ul>
 Burgers en McNuggets
-<li>Big mac
-€ 3,45
-<li>Quarter Pounder
-€ 3,45
-<li>McChicken
-€ 3,25
-<li>Filet-O-Fish
-€ 2,00
-<li>Chicken Sensation
-€ 3,75
-<li>Big Tasty met bacon
-€ 6,95
-<li>Hamburger
-€ 1,75
-<li>Cheeseburger
-€ 1,50
-<li>McKroket
-€ 2,45
-<li>Chicken McNuggets 6 st.
-€ 2,00
-<li>Chicken McNuggets 9 st. met 2 sausjes
-€ 3,75
-<li>Chicken McNuggets 20 st. met 3 sausjes
-€ 6,95
-<li>Crispy shrimps met chili dip
-€ 2,50
-<li>Chili chicken
-€ 0,00
+<li>Big mac € 3,45
+<li>Quarter Pounder € 3,45
+<li>McChicken € 3,25
+<li>Filet-O-Fish € 2,00
+<li>Chicken Sensation € 3,75
+<li>Big Tasty met bacon € 6,95
+<li>Hamburger € 1,75
+<li>Cheeseburger € 1,50
+<li>McKroket € 2,45
+<li>Chicken McNuggets 6 st. € 2,00
+<li>Chicken McNuggets 9 st. met 2 sausjes € 3,75
+<li>Chicken McNuggets 20 st. met 3 sausjes € 6,95
+<li>Crispy shrimps met chili dip € 2,50
+<li>Chili chicken € 2,00
 </ul>
  </p>
  
  <p>
  <ul>
 Dranken 
-<li>Innocent Smoothie€ 1,95 
-<li>Tropicana Appelsap€ 1,95 
-<li>Tropicana Jus d’Orange€ 1,95 
-<li>Biologische Halfvolle Melk€ 1,95 
-<li>Fristi€ 1,95 
-<li>Chocomel€ 1,95 
-<li>Spa 33cl€ 1,75 
-<li>Spa 50cl€ 2,10 
-<li>Coca-Cola€ 2,10 
-<li>Coca-Cola Zero Sugar€ 2,10 
-<li>Coca-Cola Light€ 2,10 
-<li>Sprite€ 2,00 
-<li>Lipton Ice Tea€ 2,25 
-<li>Fanta€ 2,50 
+<li>Innocent Smoothie € 1,95 
+<li>Tropicana Appelsap € 1,95 
+<li>Tropicana Jus d’Orange € 1,95 
+<li>Biologische Halfvolle Melk € 1,95 
+<li>Fristi € 1,95 
+<li>Chocomel € 1,95 
+<li>Spa 33cl € 1,75 
+<li>Spa 50cl € 2,10 
+<li>Coca-Cola € 2,10 
+<li>Coca-Cola Zero Sugar € 2,10 
+<li>Coca-Cola Light € 2,10 
+<li>Sprite € 2,00 
+<li>Lipton Ice Tea € 2,25 
+<li>Fanta € 2,50 
  </ul>
  <P>
  
  <p>
  <ul>
 Los 
-Vers fruit€ 1,50 
-<li>Snoeptomaatjes€ 1,50 
-<li>Danoontje€ 1,50 
+Vers fruit € 1,50 
+<li>Snoeptomaatjes € 1,50 
+<li>Danoontje € 1,50 
  </ul>
  </p>
  
  <p>
  <ul>
 Cookies 
-<li>White Chocolate Raspberry Cookie€ 1,75 
-<li>Triple Chocolate Cookie€ 1,75 
+<li>White Chocolate Raspberry Cookie € 1,75 
+<li>Triple Chocolate Cookie € 1,75 
  </ul>
  </p>
 
@@ -237,7 +212,7 @@ Cookies
  <p>
  <ul>
 Ijs & milk shakes 
-<li>McFlurry Strawberry Cheesecake met Aardbeiensaus€ 2,95 
+<li>McFlurry Strawberry Cheesecake met Aardbeiensaus € 2,95 
 <li>Sundae Karamel € 1,80 
 <li>Ijshoorn € 1,00 
 <li>Milk Shake Banaan € 2,40 
