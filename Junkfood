@@ -114,8 +114,6 @@ Voordeelmenu's
 </ul>
  </p>
  
- <p style=”line-height: 20px;”>
- 
 <p>
 <ul>
 McWraps 
@@ -123,7 +121,7 @@ McWraps
 <li>Kleine McWrap € 2,25
 </ul>
 </p>
-<p style=”line-height: 20px;”>
+
 <p>
 <ul>
 Happy Meal 
@@ -134,7 +132,7 @@ Happy Meal
 <li>Happy Meal Chicken McNuggets 4 € 4,20
 </ul>
 </p>
-<p style=”line-height: 20px;”>
+
 <p>
 <ul>
 Franse frietjes 
@@ -147,6 +145,17 @@ Franse frietjes
 <li>Sweet Potatoes Groot € 2,90
 </ul>
  </p> 
+ 
+ <p>
+    <ul>
+Ontbijt 
+<li>McMuffin € 1,95 
+<li>Croissant (jam & boter) € 1,95 
+<li>Pancakes met stroop € 1,95 
+<li>Ontbijtproduct + drankje € 2,95     
+    </ul>
+    </p>
+ 
 </div>
 
 
@@ -204,6 +213,24 @@ Dranken
 <li>Fanta€ 2,50 
  </ul>
  <P>
+ 
+ <p>
+ <ul>
+Los 
+Vers fruit€ 1,50 
+<li>Snoeptomaatjes€ 1,50 
+<li>Danoontje€ 1,50 
+ </ul>
+ </p>
+ 
+ <p>
+ <ul>
+Cookies 
+<li>White Chocolate Raspberry Cookie€ 1,75 
+<li>Triple Chocolate Cookie€ 1,75 
+ </ul>
+ </p>
+
     </div>
 
     <div class="col-sm-4" STYLE="text-align: left;"> 
@@ -248,26 +275,14 @@ Koffie
         <p>
     <ul>
 Salades 
-<li><li>Grilled Chicken Salad - Sweet & Spicy € 4,95 
+<li>Grilled Chicken Salad - Sweet & Spicy € 4,95 
 <li>Bacon 'n Cheese Salad € 4,95 
 <li>Side Salad € 4,95     
    </ul>
     </p>
-      
-    <p>
-    <ul>
-Ontbijt 
-<li>McMuffin € 1,95 
-<li>Croissant (jam & boter) € 1,95 
-<li>Pancakes met stroop € 1,95 
-<li>Ontbijtproduct + drankje € 2,95     
-    </ul>
-    </p>
-    
     </div>
     
-    
-  </p>
+
     <a href="#" class="btn btn-default btn-lg">
     <span class=" "></span> Back up
   </a>
@@ -276,8 +291,25 @@ Ontbijt
 <!-- Second v2 Container -->
 <div class="container-fluid bg-2 text-center">
   <h3 class="margin">KFC</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-  <a href="#" class="btn btn-default btn-lg">
+  
+   <div class="col-sm-4" STYLE="text-align: left;">
+      <p>
+      </p>
+       </div>
+    
+    
+    <div class="col-sm-4" STYLE="text-align: left;"> 
+      <p>
+      </p>
+       </div>
+    
+    <div class="col-sm-4" STYLE="text-align: left;"> 
+      <p>
+      </p>
+        </div>
+ 
+
+ <a href="#" class="btn btn-default btn-lg">
     <span class=" "></span> Back up
   </a>
 </div>
@@ -294,7 +326,7 @@ Ontbijt
 
 <!-- Third Container (Grid) -->
 <div class="container-fluid bg-3 text-center">    
-  <h3 class="margin">Populaire producten</h3><br>
+  <h3 class="margin">Where To Find Me?</h3><br>
   <div class="row">
     <div class="col-sm-4">
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
