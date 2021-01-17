@@ -406,15 +406,6 @@ Dranken
 <li>Orange Juice €1,50 
 </ul>
 </p>
- 
-<p>
-<ul>
-Kids Menu 
-<li>Hamburger Menu €3,45 
-<li>Cheeseburger Menu €3,45 
-<li>King Nuggets Menu €3,45 
-</ul>
-</p>
 
     </div>
     
@@ -447,15 +438,7 @@ Burgers
     
     
     <div class="col-sm-4" STYLE="text-align: left;">
-    
-<p>
-<ul>
-Specials 
-<li>Pepper Whopper Menu	 €5,65 
-<li>Pepper Whopper Sandwich €3,85 
-</ul>
-<p>
-
+   
 <p>
 <ul>
 Milkshakes 
@@ -464,7 +447,6 @@ Milkshakes
 <li>Milkshake King	€2,25 
 </ul>
 </p>
-
 
 <p>
 <ul>
@@ -478,11 +460,12 @@ King Fries
 
 <p>
 <ul>
-Extra’s 
-<li>Extra kaas €0,60 
-<li>Extra bacon €0,60 
-      </ul>
-      </p>
+Kids Menu 
+<li>Hamburger Menu €3,45 
+<li>Cheeseburger Menu €3,45 
+<li>King Nuggets Menu €3,45 
+</ul>
+</p>
    
     </div>
     
