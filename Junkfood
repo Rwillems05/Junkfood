@@ -17,7 +17,7 @@
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #741111; /* Darker red */
+    background-color: #9C1717; /* Darker red */
     color: #ffffff;
   }
   .bg-2 { 
@@ -25,7 +25,7 @@
     color: #ffffff;
   }
   .bg-3 { 
-    background-color: #CF6969; /* Light Red */
+    background-color: #D94E4E; /* Light Red */
     color: #555555;
   }
   .bg-4 { 
