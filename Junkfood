@@ -285,6 +285,17 @@ Meals
 <li>9 Filet Bites+ frites + frisdrank €7,45 
       </ul>
       </p>
+      
+      <p>
+      <ul>
+Bij je menu per stuk 
+<li>Coleslaw €1,25 
+<li>Halve maïskolf €1,25 
+<li>Frites €1,25 
+<li>Kleine salade €1,25 
+      </ul>
+      </p>
+      
        </div>
     
     
@@ -308,6 +319,19 @@ Family bucket
 <li>63 hot wings €29,95 
       </ul>
       </p>
+      
+      <p>
+      <ul>
+Burgers & Wraps 
+<li> Krispy Burger €3,75 
+<li>Filet Burger €3,75 
+<li>Zinger Burger €3,75 
+<li>Twister €4,55 
+<li>Zinger Tower €4,55 
+<li>Filet Tower €4,55
+      </ul>
+      <p>
+      
        </div>
     
     <div class="col-sm-4" STYLE="text-align: left;"> 
@@ -324,6 +348,26 @@ Variety Box
 <li>3 hot wings + 1 kipstuk + 1 frites + 1 coleslaw + 1 frisdrank €8,65 
       </ul>
       </p>
+      
+      <p>
+      <ul>
+Snacks 
+<li>Chicken Original 1 stuk €2,00 
+<li>Chicken Original 2 stuk €3,75 
+<li>Chicken Original 5 stuk €8,95 
+<li>3 Hot Wings €2,25 
+<li>6 Hot Wings €4,05 
+<li>9 Hot Wings €5,75 
+<li>3 Crispy Strips (incl. dip) €3,95 
+<li>6 Filet Bites €4,05 
+<li>9 Filet Bites €5,75 
+<li>15 Filet Bites €8,95 
+<li>Smart Snackbox €2,00 
+<li>Smart Snackbox 2 €2,00 
+<li>Snackbox €2,45 
+      </ul>
+      </p>
+      
         </div>
  
 
