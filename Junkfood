@@ -473,21 +473,20 @@ Kids Menu
   </a>
 </div>
 
-
 <!-- Third Container (Grid) -->
 <div class="container-fluid bg-3 text-center">    
   <h3 class="margin">Populaire producten</h3><br>
   <div class="row">
     <div class="col-sm-4">
-      <p> McFlurry Oreo: knapperige stukjes Oreo en een heerlijke chocoladesaus! Wist je dat je de saus van je McFlurry kunt wisselen? Probeer 'm eens met aardbeiensaus of karamelsaus!</p>
+      <p> McFlurry Oreo: knapperige stukjes Oreo en een heerlijke chocoladesaus! Wist je dat je de saus van je McFlurry kunt wisselen? Probeer 'm eens met aardbeiensaus of karamelsaus!(Image:<a href="https://www.mcdonalds.com/nl/nl-nl.html">www.mcdonalds.nl</a>)</p>
       <img src="mcflurry1.png" class="img-responsive margin" style="width:100%" alt="Mcflurry">
     </div>
     <div class="col-sm-4"> 
-      <p>De WHOPPER®: Deze burger heeft eigenlijk geen uitleg nodig. Zodra je tanden in het versgeroosterde sesambroodje zinken en je de unieke BBQ-smaak van de Flame-Grilled burger proeft, snap je waarom de WHOPPER® onze concurrenten al sinds 1957 tot waanzin drijft.</p>
+      <p>De WHOPPER®: Deze burger heeft eigenlijk geen uitleg nodig. Zodra je tanden in het versgeroosterde sesambroodje zinken en je de unieke BBQ-smaak van de Flame-Grilled burger proeft, snap je waarom de WHOPPER® onze concurrenten al sinds 1957 tot waanzin drijft. (Image:<a href="https://www.burgerking.nl">www.burgerking.nl</a>)</p>
       <img src="whopper1.png" class="img-responsive margin" style="width:100%" alt="Whopper">
     </div>
     <div class="col-sm-4"> 
-      <p>Chickn' share: Heerlijk, kip aan het bot, van buiten gepaneerd maar mals van binnen. Deel de Chick‘n Share met je vrienden - er is meer dan genoeg! Gaan jullie voor de 6 pcs Original, toch de 16 perfect gekruide krokante Hot Wings of 10 Crispy Tenders?</p>
+      <p>Chickn' share: Heerlijk, kip aan het bot, van buiten gepaneerd maar mals van binnen. Deel de Chick‘n Share met je vrienden - er is meer dan genoeg! Gaan jullie voor de 6 pcs Original, toch de 16 perfect gekruide krokante Hot Wings of 10 Crispy Tenders? (Image:<a href="https://www.kfc.nl">www.kfc.nl</a>)</p>
       <img src="kfcbucket1.png" class="img-responsive margin" style="width:100%" alt="Bucket">
     </div>
   </div>
