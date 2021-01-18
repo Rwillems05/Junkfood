@@ -29,7 +29,7 @@
   }
   .bg-4 { 
     background-color: #2f2f2f; /* Black Gray */
-    color: #fffffff;
+    color: #ffffff;
   }
   .container-fluid {
     padding-top: 70px;
@@ -100,7 +100,7 @@ Voordeelmenu's
 <li>Groot menu (plus prijs) €0,75
 <li>Bacon 'n Cheese Salad Voordeelmenu €5,95
 </ul>
- </p>
+ <p>
  
 <p>
 <ul>
@@ -108,7 +108,7 @@ McWraps
 <li>Grote McWrap Honing-Mosterd€ 3,95 
 <li>Kleine McWrap €2,25
 </ul>
-</p>
+<p>
 
 <p>
 <ul>
@@ -119,7 +119,7 @@ Happy Meal
 <li>Happy Meal Cheeseburger €4,20 
 <li>Happy Meal Chicken McNuggets 4 €4,20
 </ul>
-</p>
+<p>
 
 <p>
 <ul>
@@ -132,7 +132,7 @@ Franse frietjes
 <li>Chicken McNuggets saus €0,60 
 <li>Sweet Potatoes Groot €2,90
 </ul>
- </p> 
+ <p> 
  
  <p>
     <ul>
@@ -142,7 +142,7 @@ Ontbijt
 <li>Pancakes met stroop €1,95 
 <li>Ontbijtproduct + drankje €2,95     
     </ul>
-    </p>
+    <p>
  
 </div>
 
@@ -166,7 +166,7 @@ Burgers en McNuggets
 <li>Crispy shrimps met chili dip €2,50
 <li>Chili chicken €2,00
 </ul>
- </p>
+ <p>
  
  <p>
  <ul>
@@ -186,7 +186,7 @@ Dranken
 <li>Lipton Ice Tea €2,25 
 <li>Fanta €2,50 
  </ul>
- <P>
+ <p>
  
  <p>
  <ul>
@@ -195,7 +195,7 @@ Vers fruit €1,50
 <li>Snoeptomaatjes €1,50 
 <li>Danoontje €1,50 
  </ul>
- </p>
+ <p>
  
  <p>
  <ul>
@@ -203,7 +203,7 @@ Cookies
 <li>White Chocolate Raspberry Cookie €1,75 
 <li>Triple Chocolate Cookie €1,75 
  </ul>
- </p>
+ <p>
 
     </div>
 
@@ -230,7 +230,7 @@ Ijs & milk shakes
 <li>Sundae Aardbei met krokante muesli €3,50 
 <li>Yoghurt met krokante muesli €3,25 
 </ul>
-    </p>    
+    <p>    
     
     
     <p>
@@ -244,7 +244,7 @@ Koffie
 <li>Espresso €1,25 
 <li>Dubbele espresso €1,65 
     </ul>
-    </p>
+    <p>
     
         <p>
     <ul>
@@ -254,7 +254,7 @@ Salades
 <li>Side Salad €4,95    
 <li>Side Salad 2 €4,95 
    </ul>
-    </p>
+    <p>
     </div>
     
 
@@ -284,7 +284,7 @@ Meals
 <li>Filet Bites salad + frites + frisdrank €6,45 
 <li>9 Filet Bites+ frites + frisdrank €7,45 
       </ul>
-      </p>
+      <p>
       
       <p>
       <ul>
@@ -294,7 +294,7 @@ Bij je menu per stuk
 <li>Frites €1,25 
 <li>Kleine salade €1,25 
       </ul>
-      </p>
+      <p>
       
        </div>
     
@@ -318,7 +318,7 @@ Family bucket
 <li>45 hot wings €23,95 
 <li>63 hot wings €29,95 
       </ul>
-      </p>
+      <p>
       
       <p>
       <ul>
@@ -347,7 +347,7 @@ Burger box
 Variety Box 
 <li>3 hot wings + 1 kipstuk + 1 frites + 1 coleslaw + 1 frisdrank €8,65 
       </ul>
-      </p>
+      <p>
       
       <p>
       <ul>
@@ -367,7 +367,7 @@ Snacks
 <li>Smart Snackbox 2 €2,00 
 <li>Snackbox €2,45 
       </ul>
-      </p>
+      <p>
       
         </div>
  
@@ -393,7 +393,7 @@ King Menu’s
 <li>Grilled Chicken Wrap €5,95 
 <li>Groot menu €0,60 extra 
 </ul>
-</p>
+<p>
  
 <p>
 <ul>
@@ -404,7 +404,7 @@ Dranken
 <li>Frisdrank King €2,15 
 <li>Orange Juice €1,50 
 </ul>
-</p>
+<p>
 
     </div>
     
@@ -418,7 +418,7 @@ IJs en desserts
 <li>Hot Brownie / Blondie €2,50
 <li>Softijs €0,75 
 </ul>
- </p>
+ <p>
 
 <p>
 <ul>
@@ -431,7 +431,7 @@ Burgers
 <li>Fish King €2,95 
 <li>Cheeseburger €1,75 
 </ul>
-</p>
+<p>
       
     </div>
     
@@ -445,7 +445,7 @@ Milkshakes
 <li>Milkshake Large €2,00 
 <li>Milkshake King	€2,25 
 </ul>
-</p>
+<p>
 
 <p>
 <ul>
@@ -455,7 +455,7 @@ King Fries
 <li>King €2,00 
 <li>Fritessaus / ketchup €0,60
 </ul>
-</p>
+<p>
 
 <p>
 <ul>
@@ -464,7 +464,7 @@ Kids Menu
 <li>Cheeseburger Menu €3,45 
 <li>King Nuggets Menu €3,45 
 </ul>
-</p>
+<p>
    
     </div>
     
