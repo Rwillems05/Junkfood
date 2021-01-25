@@ -56,31 +56,31 @@
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>                       
       </button>
-      <a class="navbar-brand" href="#">JUNKFOODPRIJZEN</a>
+      <a class="navbar-brand" href="#one">JUNKFOODPRIJZEN</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Wat doen wij?</a></li>
-        <li><a href="#">Merken</a></li>
-        <li><a href="#">Populair</a></li>
-      </ul>
-    </div>
+            <li><a id="sec-1" href="#one">Over ons</a></li>
+            <li><a id="sec-2" href="#two">McDonalds</a></li>
+            <li><a id="sec-3" href="#three">KFC</a></li>
+            <li><a id="sec-4" href="#four">Burgerking</a></li>
+            <li><a id="sec-5" href="#five">Populair</a></li>
+          </ul>
+      </div>
   </div>
 </nav>
 
 <!-- First Container -->
-<div class="container-fluid bg-1 text-center">
+<div id="one" class="container-fluid bg-1 text-center">
   <h3 class="margin">Junkfoodprijzen</h3>
-    <img src="Junkfood1.png" class="img-responsive" alt="Junkfoodprijzen" width="3000" height="500">
+  <img src="Junkfood1.png" class="img-responsive" alt="Junkfoodprijzen" width="3000" height="500">
   <h3>Op deze website zie je de prijzen en het assortiment van verschillende Foodketens die zich in Nederland bevinden. Op deze website vind je de prijzen van; Mcdonalds, KFC en BurgerKing </h3>
 </div>
 
 <!-- Second Container -->
-<div class="container-fluid bg-2 text-center">
+<div id="two" class="container-fluid bg-2 text-center">
   <h3 class="margin">McDonalds</h3>
   
 <div class="col-sm-4" STYLE="text-align: left;">
@@ -264,7 +264,7 @@ Salades
 </div>
 
 <!-- Second v2 Container -->
-<div class="container-fluid bg-2 text-center">
+<div id="three" class="container-fluid bg-2 text-center">
   <h3 class="margin">KFC</h3>
   
    <div class="col-sm-4" STYLE="text-align: left;">
@@ -378,7 +378,7 @@ Snacks
 </div>
 
 <!-- Second v3 Container -->
-<div class="container-fluid bg-2 text-center">
+<div id="four" class="container-fluid bg-2 text-center">
   <h3 class="margin">Burgerking</h3>
     
     <div class="col-sm-4" STYLE="text-align: left;">
@@ -473,8 +473,9 @@ Kids Menu
   </a>
 </div>
 
+
 <!-- Third Container (Grid) -->
-<div class="container-fluid bg-3 text-center">    
+<div id="five" class="container-fluid bg-3 text-center">    
   <h3 class="margin">Populaire producten</h3><br>
   <div class="row">
     <div class="col-sm-4">
@@ -500,3 +501,4 @@ Kids Menu
 
 </body>
 </html>
+
