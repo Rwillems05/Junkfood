@@ -485,7 +485,7 @@
 
       <!-- Footer, In de footer hebben we alleen onze namen toegevoegd -->
       <footer class="container-fluid bg-4 text-center">
-         <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p>
+           <p>Bootstrap template die gebruikt is <a href="https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp">(Klik hier)</a></p>
          <p> Website gemaakt voor informatica door Robin Willems & Luka Lippinkhof (Sg WereDi) </p>
       </footer>
 
