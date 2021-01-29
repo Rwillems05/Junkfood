@@ -2,54 +2,14 @@
 <html lang="en">
 
    <head>
-      <!-- Head, In de head hebben we de link van de css veranderd zodat het verbonden is met een style.css bestand, verder hebben we de titel van de website aangepast en ook de achtergrondkleuren.-->
+      <!-- Head, In de head hebben we de link van de css veranderd zodat het verbonden is met een style.css bestand, verder hebben we de titel van de website aangepast.-->
       <title> Junkfoodprijzen </title>
+      <link rel="favicon" href="Images/favicon.png">
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="style.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-      <style>
-         body {
-         font: 20px Montserrat, sans-serif;
-         line-height: 1.8;
-         color: #f5f6f7;
-         }
-         p {font-size: 16px;}
-         .margin {margin-bottom: 45px;}
-         .bg-1 { 
-         background-color: #9C1717; /* Darker red */
-         color: #ffffff;
-         }
-         .bg-2 { 
-         background-color: #C12C2C; /* Red */
-         color: #ffffff;
-         }
-         .bg-3 { 
-         background-color: #D94E4E; /* Light Red */
-         color: #ffffff;
-         }
-         .bg-4 { 
-         background-color: #2f2f2f; /* Black Gray */
-         color: #ffffff;
-         }
-         .container-fluid {
-         padding-top: 70px;
-         padding-bottom: 70px;
-         }
-         .navbar {
-         padding-top: 15px;
-         padding-bottom: 15px;
-         border: 0;
-         border-radius: 0;
-         margin-bottom: 0;
-         font-size: 12px;
-         letter-spacing: 5px;
-         }
-         .navbar-nav  li a:hover {
-         color: #A83B3B !important;
-         }
-      </style>
    </head>
 
    <body>
@@ -78,7 +38,7 @@
       <!-- First Container, In deze container hebben we een titel en tekst toegevoegd, ook hebben we een png image togevoegd zodat de achtergrond doorzichtig is, ook is de image responsive. -->
       <div id="one" class="container-fluid bg-1 text-center">
          <h3 class="margin">Junkfoodprijzen</h3>
-         <img src="Junkfood1.png" class="img-responsive" alt="Junkfoodprijzen" width="3000" height="500">
+         <img src="Images/Junkfood1.png" class="img-responsive" alt="Junkfoodprijzen" width="3000" height="500">
          <h3>Op deze website zie je de prijzen en het assortiment van verschillende Foodketens die zich in Nederland bevinden. Op deze website vind je de prijzen van; Mcdonalds, KFC en BurgerKing </h3>
       </div>
 
@@ -470,22 +430,22 @@
          <div class="row">
             <div class="col-sm-4">
                <p> McFlurry Oreo: knapperige stukjes Oreo en een heerlijke chocoladesaus! Wist je dat je de saus van je McFlurry kunt wisselen? Probeer 'm eens met aardbeiensaus of karamelsaus!(Image:<a href="https://www.mcdonalds.com/nl/nl-nl.html">www.mcdonalds.nl</a>)</p>
-               <img src="mcflurry1.png" class="img-responsive margin" style="width:100%" alt="Mcflurry">
+               <img src="Images/mcflurry1.png" class="img-responsive margin" style="width:100%" alt="Mcflurry">
             </div>
             <div class="col-sm-4">
                <p>De WHOPPER®: Deze burger heeft eigenlijk geen uitleg nodig. Zodra je tanden in het versgeroosterde sesambroodje zinken en je de unieke BBQ-smaak van de Flame-Grilled burger proeft, snap je waarom de WHOPPER® onze concurrenten al sinds 1957 tot waanzin drijft. (Image:<a href="https://www.burgerking.nl">www.burgerking.nl</a>)</p>
-               <img src="whopper1.png" class="img-responsive margin" style="width:100%" alt="Whopper">
+               <img src="Images/whopper1.png" class="img-responsive margin" style="width:100%" alt="Whopper">
             </div>
             <div class="col-sm-4">
                <p>Chickn' share: Heerlijk, kip aan het bot, van buiten gepaneerd maar mals van binnen. Deel de Chick‘n Share met je vrienden - er is meer dan genoeg! Gaan jullie voor de 6 pcs Original, toch de 16 perfect gekruide krokante Hot Wings of 10 Crispy Tenders? (Image:<a href="https://www.kfc.nl">www.kfc.nl</a>)</p>
-               <img src="kfcbucket1.png" class="img-responsive margin" style="width:100%" alt="Bucket">
+               <img src="Images/kfcbucket1.png" class="img-responsive margin" style="width:100%" alt="Bucket">
             </div>
          </div>
       </div>
 
       <!-- Footer, In de footer hebben we alleen onze namen toegevoegd -->
       <footer class="container-fluid bg-4 text-center">
-           <p>Bootstrap template die gebruikt is <a href="https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp">(Klik hier)</a></p>
+         <p>Bootstrap template die gebruikt is <a href="https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp">(Klik hier)</a></p>
          <p> Website gemaakt voor informatica door Robin Willems & Luka Lippinkhof (Sg WereDi) </p>
       </footer>
 
