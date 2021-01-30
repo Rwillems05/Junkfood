@@ -4,12 +4,60 @@
    <head>
       <!-- Head, In de head hebben we de link van de css veranderd zodat het verbonden is met een style.css bestand, verder hebben we de titel van de website aangepast.-->
       <title> Junkfoodprijzen </title>
-      <link rel="favicon" href="Images/favicon.png">
+      <link rel="icon" href="Images/favicon.png">
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="style.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      <style>
+      body {
+         font: 20px Montserrat, sans-serif;
+         line-height: 1.8;
+         color: #f5f6f7;
+         }
+
+         p {font-size: 16px;}
+         .margin {margin-bottom: 45px;}
+         .bg-1 { 
+         background-color: #9C1717; /* Darker red */
+         color: #ffffff;
+         }
+
+         .bg-2 { 
+         background-color: #C12C2C; /* Red */
+         color: #ffffff;
+         }
+
+         .bg-3 { 
+         background-color: #D94E4E; /* Light Red */
+         color: #ffffff;
+         }
+
+         .bg-4 { 
+         background-color: #2f2f2f; /* Black Gray */
+         color: #ffffff;
+         }
+
+         .container-fluid {
+         padding-top: 70px;
+         padding-bottom: 70px;
+         }
+
+         .navbar {
+         padding-top: 15px;
+         padding-bottom: 15px;
+         border: 0;
+         border-radius: 0;
+         margin-bottom: 0;
+         font-size: 12px;
+         letter-spacing: 5px;
+         }
+
+         .navbar-nav  li a:hover {
+         color: #A83B3B !important;
+         }
+      </style>
    </head>
 
    <body>
