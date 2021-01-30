@@ -2,7 +2,7 @@
 <html lang="en">
 
    <head>
-      <!-- Head, In de head hebben we de link van de css veranderd zodat het verbonden is met een style.css bestand, verder hebben we de titel van de website aangepast.-->
+      <!-- Head, In de head hebben we de link van de css veranderd zodat het verbonden is met een style.css bestand, verder hebben we de titel van de website aangepast. Als laatste hebben we nog een favicon toegevoegd.-->
       <title> Junkfoodprijzen </title>
       <link rel="icon" href="Images/favicon.png">
       <meta charset="utf-8">
@@ -206,6 +206,13 @@
             </ul>
             <p>
 
+            <p>
+            <ul>
+               Cookies 
+               <li>White Chocolate Raspberry Cookie €1,75 
+               <li>Triple Chocolate Cookie €1,75 
+            </ul>
+            <p>
           
 
          </div>
@@ -256,15 +263,7 @@
                <li>Bacon 'n Cheese Salad €4,95 
                <li>Side Salad €4,95    
             </ul>
-            <p>
-
-            <p>
-            <ul>
-               Cookies 
-               <li>White Chocolate Raspberry Cookie €1,75 
-               <li>Triple Chocolate Cookie €1,75 
-            </ul>
-            <p>
+            <p> 
          </div>
 
          <a href="#" class="btn btn-default btn-lg">
