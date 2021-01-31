@@ -1,4 +1,4 @@
-<!-- CSS, In de css hebben we niet heel veel veranderd omdat we al erg tevereden waren met hoe het er uit zag volgens de template,Ook hebben we de kleuren van alle containers en navigatiebar aangepast naar het kleurenthema.-->
+<!-- CSS, In de css hebben we niet heel veel veranderd omdat we al erg tevereden waren met hoe het er uit zag volgens de template, Wel hebben we het stuke style dat nog in het html bestand stond verplaatst naar het css verstand, Ook hebben we de kleuren van alle containers en navigatiebar aangepast naar het kleurenthema.-->
 
 /* cyrillic-ext */
 @font-face {
@@ -47,7 +47,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-         
+
 
 html {
 	font-family: sans-serif;
@@ -7011,4 +7011,5 @@ button.close {
 }
 
 
+> cae483efe321b84bea1ea6f033d04d685280b776
 /*# sourceMappingURL=bootstrap.min.css.map */
